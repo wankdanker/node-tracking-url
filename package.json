@@ -1,0 +1,32 @@
+{
+  "name": "tracking-url",
+  "version": "1.0.0",
+  "description": "Get the carrier name and web url for a given tracking number",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wankdanker/node-tracking-url"
+  },
+  "keywords": [
+    "fedex",
+    "ups",
+    "usps",
+    "dhl",
+    "tracking",
+    "number",
+    "url"
+  ],
+  "author": "Dan VerWeire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wankdanker/node-tracking-url/issues"
+  },
+  "homepage": "https://github.com/wankdanker/node-tracking-url"
+}

@@ -1,6 +1,6 @@
 {
   "name": "tracking-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the carrier name and web url for a given tracking number",
   "main": "index.js",
   "dependencies": {},

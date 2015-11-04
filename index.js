@@ -45,7 +45,7 @@ var carriers = module.exports.carriers = [
 	}
 	, {
 		name : 'dhl'
-		, url : 'http://track.dhl-usa.com/TrackByNbr.asp?ShipmentNumber={trackingNumber}'
+		, url : 'http://www.dhl.com/en/express/tracking.html?AWB={trackingNumber}&brand=DHL'
 		, regs : [
 			/^\d{10,11}$/
 		]
